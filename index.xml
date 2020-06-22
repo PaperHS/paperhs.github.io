@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Better Call Paper</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Better Call Paper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>纸团其人</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Fri, 12 Jun 2020 20:57:07 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>纸团，90年末出生于湖北的一个小城市，没见过什么大世面，家境也很一般，读书也不算好，上了市重点的高中，混了个普通一本。
+独生子女，小时候孤苦得很，只能自己玩，也不让看电视只能下下棋，看看书，所幸堂兄假期有时间带我下象棋围棋，非常有趣，但是毕竟没受过专业训练，水平也只能娱乐。无聊时在堂兄家中搜得《大宇神秘惊魂系列》和 几本《卫斯理》，爱不释手，以至于后来爱看一些闲书，什么《老夫子》到韩寒郭敬明，从《萌芽》到《武侠-奇幻》，其实也会有《商州小记》和《秦腔》这类的书，这些经历让我在以后一个人孤独的时候，并不会无聊。
+小的时候，有一些朋友，都非常的中二，经常一起大热天去打球踢球，骑自行车去郊区，打双升，看港片，开心的很，他们的成绩都不太好，只有我成绩还行，他们也不嫌弃我，真好。我一直都很喜欢跟成绩不好的小朋友一起玩耍，他们都很真实，而且都很会玩，他们让我见识到这个世界的多样性，小朋友不仅仅只有成绩好这一件事情，让我后来无比贪婪，想要看到更大的世界，享受更多的可能性。
+我只有一个成绩好的朋友，他是个特列，他也是个非常贪玩的人，是他带我进入网络的世界，也是他带我进了War3的世界，这件事对我影响很大，唯一的遗憾是，由于我的贫穷，我并没有跟上他到WOW的世界，我一直很遗憾，我还是很想念这位朋友，只是不知道为什么，我们失联了。
+高考成绩一般，机缘巧合，上了一所普通的一本，我终于如我所愿的离开了我的父母，而且还挺远。接下来的几年，我都不知道自己在干什么，似乎也没有学什么，似乎也没有玩什么，不再看书，也不再认真地玩游戏，无意义的看着各种各样的电影和剧，还染上了爱看港剧的恶习，没办法，我小时候的记忆力太好了，让我觉得港剧特别亲切。</description>
+    </item>
+    
+  </channel>
+</rss>
